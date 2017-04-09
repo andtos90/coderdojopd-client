@@ -1,0 +1,11 @@
+:global html, :global body {
+  margin: 0;
+  font-family: "Trade Gothic LT Std";
+  src: url('../fonts/TradeGothicLTStd.ttf');
+}
+
+:global p, :global input, :global button {
+  font-family: "Trade Gothic LT Std";
+  src: url('../fonts/TradeGothicLTStd.ttf');
+  margin: 0;
+}

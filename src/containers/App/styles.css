@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #ffffff;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
